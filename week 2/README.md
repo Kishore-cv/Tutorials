@@ -3,7 +3,7 @@
 
 ---
 
-## **Nov 7 ( Day 6 ) — Color Spaces & Segmentation**
+## **Nov 10 ( Day 6 ) — Color Spaces & Segmentation**
 ### **Learned :**
 
 #### **HSV Color Space**
@@ -28,7 +28,7 @@
 
 ---
 
-## **Nov 8 ( Day 7 ) — Morphological Operations**
+## **Nov 11 ( Day 7 ) — Morphological Operations**
 ### **Learned :**
 
 #### **Erosion**
@@ -58,7 +58,7 @@
 
 ---
 
-## **Nov 9 ( Day 8 ) — Circle Yarn Disc Task + Basic Feature Concepts**
+## **Nov 12 ( Day 8 ) — Circle Yarn Disc Task + Basic Feature Concepts**
 ### **Learned :** *(Simple + Blank Style)*
 
 #### **Circle Yarn Disc Detection**
@@ -77,7 +77,7 @@
 
 ---
 
-## **Nov 10 ( Day 9 ) — FAST, Harris, SIFT, SURF**
+## **Nov 13 ( Day 9 ) — FAST, Harris, SIFT, SURF**
 ### **Learned :**
 
 #### **FAST Detector**
@@ -108,7 +108,7 @@
 
 ---
 
-## **Nov 11 ( Day 10 ) — ORB, BRIEF, BFMatcher, FLANN, Ratio Test, Homography**
+## **Nov 14 ( Day 10 ) — ORB, BRIEF, BFMatcher, FLANN, Ratio Test, Homography**
 ### **Learned :**
 
 #### **ORB (Oriented FAST + Rotated BRIEF)**
