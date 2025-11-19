@@ -95,7 +95,7 @@ def main(image_path):
         (cleaned, "After cleaning)")
     ])
 
-
+main("k.jpg")
 
 main('/home/hp/Training/Opencv/Day 7/hand.jpg')
 
