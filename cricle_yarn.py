@@ -81,6 +81,7 @@ def differencte_circle(open_mask, img):
     ring_result = cv.bitwise_and(ring_result, ring_result, mask=ring_result_mask)
 
     ring_result = cv.cvtColor(ring_result, cv.COLOR_HSV2BGR)
+    ring_result = ring_result[y:y+h, x:x+w]
 
     return ring_result
 
@@ -111,7 +112,7 @@ def cricle_detect(image):
 
     
     
-image = cv.imread("/home/hp/Downloads/usr/uv_nov11/5331_uv.png")
+image = cv.imread("/home/hp/Downloads/usr/OneDrive_1_17-11-2025/1610_uv.png")
 res = cricle_detect(image)
 
 
